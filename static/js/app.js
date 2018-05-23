@@ -173,7 +173,7 @@ var logout = function(){
 }
 
 gapi.signin.render("googleSignIn", {
-              'clientid': '211798240293-0eo5qdg02ctmj0aqfov41ha10qj21d1g.apps.googleusercontent.com',
+              'clientid': '911199352700-2e0k3elii46pt9trqce2mpeddhbj0r17.apps.googleusercontent.com',
               'callback': googleSignInCallback,
               'cookiepolicy': 'single_host_origin',
               'requestvisibleactions': 'http://schemas.google.com/AddActivity',
@@ -184,7 +184,7 @@ gapi.signin.render("googleSignIn", {
 });
 
 gapi.signin.render("googleSignInCustom", {
-              'clientid': '211798240293-0eo5qdg02ctmj0aqfov41ha10qj21d1g.apps.googleusercontent.com',
+              'clientid': '911199352700-2e0k3elii46pt9trqce2mpeddhbj0r17.apps.googleusercontent.com',
               'callback': googleSignInCallback,
               'cookiepolicy': 'single_host_origin',
               'requestvisibleactions': 'http://schemas.google.com/AddActivity',
